@@ -2,6 +2,9 @@
 ---
 ## 학번 : 602377124
 ---
+
+동작하지 않음
+
 ~~~r
 install.packages('animation')
 library(animation)
